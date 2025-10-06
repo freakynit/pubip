@@ -34,6 +34,8 @@ This will display your current public IP address.
 
 The tool uses the free [ipify](https://www.ipify.org/) API to fetch your public IP address.
 
+**100% vibe-coded** 🌈
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
