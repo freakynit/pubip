@@ -1,0 +1,34 @@
+{
+  "name": "@freakynit/pubip",
+  "version": "1.0.0",
+  "description": "Simple CLI tool to display your public IP address",
+  "main": "src/index.js",
+  "bin": {
+    "pubip": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ip",
+    "public-ip",
+    "cli"
+  ],
+  "author": {
+    "name": "Nitin Bansal",
+    "email": "nitinbansal85@gmail.com",
+    "url": "https://github.com/freakynit"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/freakynit/pubip#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freakynit/pubip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freakynit/pubip/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
